@@ -20,12 +20,12 @@ En la parte de arriba de este documento haz click en el botón **Clone or Downlo
 
 Dentro del *tag* `<body> </body>` insertar el siguiente fragmento de código
 
-`<h1>Hola todos</h1>
+```<h1>Hola todos</h1>
 
     <a href="perfil.html" target="_blank">Mi perfil nueva pestaña</a>
     <br>
     <a href="perfil.html">Mi perfil misma pestaña</a>
- `
+ ```
 - El *tag* `<h1>` hace referencia a un *elemento* de tipo título.
 - El *tag* `<br>` se usa para generar espacios entre líneas.
 - El *tag* `<a>` hace referencia a un *elemento* de tipo vínculo o link. 
@@ -37,7 +37,7 @@ Dentro del *tag* `<body> </body>` insertar el siguiente fragmento de código
 
 Dentro del *tag* `<body> </body>` insertar el siguiente fragmento de código
 
-`<h1><a href="index.html">Inicio</a> - Mi perfil</h1>
+```<h1><a href="index.html">Inicio</a> - Mi perfil</h1>
 
     <h2>Foto</h2>
     <a href="https://www.eltiempo.com" target="_blank">
@@ -56,7 +56,7 @@ Dentro del *tag* `<body> </body>` insertar el siguiente fragmento de código
     <p>Cel: 3504897911</p>
     <p>Correo: diegorbaquero@gmail.com</p>
     <p><a href="https://github.com/DiegoRBaquero">GitHub</a></p>
-`
+```
 - El *tag* `<h2>` hace referencia a un *elemento* de tipo título.
 - El *tag* `<img>` hace referencia a un *elemento* de tipo imagen.
     - Dentro de este tag, el atributo `scr=" "` indica el lugar en el que se encuentra ubicada la imagen (archivo en su computador o un link a una imágen)
