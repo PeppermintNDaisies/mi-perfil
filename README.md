@@ -9,11 +9,29 @@ En el primero encontrarán el contenido de la primera página, la de inicio, y e
 
 # Descargar el Proyecto
 
-En la parte de arriba de este documento
+En la parte de arriba de este documento haz click en el botón **Clone or Download** y luego en el botón **Download ZIP**
 
-![](Screen Shot 2019-10-11 at 19.06.35.png)
+![](https://cdn.sparkfun.com/assets/learn_tutorials/1/1/DownloadZip2.jpg)
 
 
 # Hacerlo de Cero
+
+### Crear un Archivo index.html
+
+Dentro del *tag* `<body> </body>` insertar el siguiente fragmento de código
+
+`<h1>Hola todos</h1>
+
+    <a href="perfil.html" target="_blank">Mi perfil nueva pestaña</a>
+    <br>
+    <a href="perfil.html">Mi perfil misma pestaña</a>
+ `
+
+- El *tag* `<h1>` hace referencia a un *elemento* de tipo título.
+  - Dentro de este tag
+- El *tag* `<br>` se usa para generar espacios entre líneas.
+- El *tag* `<a>` hace referencia a un *elemento* de tipo vínculo o link. 
+
+### Crear un Archivo perfil.html
 
 
