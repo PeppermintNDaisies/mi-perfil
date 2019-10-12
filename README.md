@@ -11,7 +11,7 @@ En el primero encontrarán el contenido de la primera página, la de inicio, y e
 
 En la parte de arriba de este documento
 
-![](Screen Shot 2019-10-11 at 19.06.35)
+![](Screen Shot 2019-10-11 at 19.06.35.png)
 
 
 # Hacerlo de Cero
